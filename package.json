@@ -1,5 +1,5 @@
 {
-    "name": "Sal_testing",
+    "name": "Sal_testing"
     
     "dependencies": {
         "express": "*",
